@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: taskflow
-          image: ghcr.io/ashraf0452/taskflow:baf077709a5a
+          image: ghcr.io/ashraf0452/taskflow:57be1bb7f475
           ports:
             - containerPort: 5000
           resources:
